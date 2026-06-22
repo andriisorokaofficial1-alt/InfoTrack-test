@@ -1,0 +1,72 @@
+ [
+    {
+        "id": 1,
+        "name": "Wireless Mouse",
+        "category": "Electronics",
+        "price": 25.99,
+        "inStock": true
+    },
+    {
+        "id": 2,
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "price": 89.50,
+        "inStock": true
+    },
+    {
+        "id": 3,
+        "name": "Noise Cancelling Headphones",
+        "category": "Electronics",
+        "price": 199.99,
+        "inStock": false
+    },
+    {
+        "id": 4,
+        "name": "Smartphone Stand",
+        "category": "Accessories",
+        "price": 12.00,
+        "inStock": true
+    },
+    {
+        "id": 5,
+        "name": "USB-C Charger",
+        "category": "Electronics",
+        "price": 29.99,
+        "inStock": true
+    },
+    {
+        "id": 6,
+        "name": "Gaming Chair",
+        "category": "Furniture",
+        "price": 249.00,
+        "inStock": true
+    },
+    {
+        "id": 7,
+        "name": "LED Desk Lamp",
+        "category": "Home",
+        "price": 45.75,
+        "inStock": true
+    },
+    {
+        "id": 8,
+        "name": "Portable SSD 1TB",
+        "category": "Electronics",
+        "price": 119.99,
+        "inStock": false
+    },
+    {
+        "id": 9,
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "price": 59.95,
+        "inStock": true
+    },
+    {
+        "id": 10,
+        "name": "Coffee Mug",
+        "category": "Kitchen",
+        "price": 9.99,
+        "inStock": true
+    }
+]
