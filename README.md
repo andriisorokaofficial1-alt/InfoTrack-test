@@ -47,6 +47,8 @@ npm install
 npm run dev
 ```
 
+4) open in browser: http://localhost:5173/
+
 ### Compile and Hot-Reload for Development
 
 ```sh
