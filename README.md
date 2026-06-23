@@ -2,6 +2,11 @@
 
 Hello there! This is a test task for Infotrack.
 
+## Prerequisites
+
+- **Node.js**: v18 or higher
+- **npm**: v9 or higher
+
 ## Recommended IDE Setup
 
 [VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
@@ -25,14 +30,15 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 
 ## AI
 
-Mostly used instead of search(Gemini). Used Cloud to get styles for the app(colors, font, borders) and loading spinner on load data.
+AI was used to generate styles for the app (colors, fonts, borders) and the loading spinner.  
+Gemini was used during prototyping instead of manual search.
 
 ## Project Setup
 
 1) Clone repository
 
 ```sh
-git clone <repository>
+git clone https://github.com/andriisorokaofficial1-alt/InfoTrack-test.git
 ```
 
 2) install npm packages
